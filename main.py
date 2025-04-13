@@ -1,7 +1,5 @@
 from functions import hamiltonian_path
-import sys
 
-# Exemplo de grafo representado como dicionário de adjacência
 graph = {
     0: [1, 2],
     1: [0, 2],
